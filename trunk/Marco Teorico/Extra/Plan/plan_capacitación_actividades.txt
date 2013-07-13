@@ -1,0 +1,19 @@
+
+los objetivos, y el contenido
+Dentro del contenido van estas áreas que mencionamos, y 
+las estrategias que pensás utilizar, 
+los materiales que vas a desarrollar para el curso
+
+------------------------------------------------------------------------
+
+1- Obtener información de los sistemas transaccionales 
+2- Concepto Explotación de información 
+3- Estrategias de explotación de Información 
+	OLAP
+	Analytics
+	Reporting
+	Dashboards
+
+
+id: 711 244 070
+pass. 517fdj
